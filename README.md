@@ -50,8 +50,24 @@ done
 4. Profit
 
 ### Blockquotes
-> If you've got a lot to say, but you didn't say it,
-> Put it in a blockquote.
->                               - Mark Twain
+> If you've got a lot to say but you didn't say it, put it in a blockquote.  
+>   -Mark Twain
 
+### Horizontal Rules
+---
+Break stuff up with three dashes
+___
+Three underscores
+***
+Or even three asterisks
 
+### Links
+[Put brackets around the text you want to display, followed by the link in parentheses](github.com/jeremiahharmon/html5-practice)
+If you want the link to just show the address itself, use these guys: '<' and '>'. That way you can avoid all the syntax.
+
+### Images
+Same syntax as links but with an exclamation point **preceding** it.
+![Here's a Unicorn that GitHub provides](https://www.github.com/unicorn.png)
+
+### Quick notes
+Backslash escape as is the standard.
