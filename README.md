@@ -42,6 +42,7 @@ done
 
 ### How about some lists?
 Start the line with asterisk and space for bullets. Number, period, then space for numbered lists.
+
 **Bullet point list:**
 * First Point
 * Second Point
