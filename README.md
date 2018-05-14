@@ -29,3 +29,15 @@ for i in {1..10}; do
   echo "I did stuff with your mom $i times last night"
 done
 ```  
+### How about some lists?
+**Bullet point list:**
+* First Point
+* Second Point
+* Third Point
+
+**Numbered List**
+1. Item one
+2. Item two
+3. ???
+4. Profit
+
