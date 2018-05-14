@@ -36,8 +36,10 @@ This is fun. Here's a command in-line using backticks: `df -h`
 And here we have a block of code using three backticks:
 ```
 for i in {1..10}; do
-  echo "I did stuff with your mom $i times last night"
+  echo "I'm only going to eat $i pringles"
 done
+
+echo "Oops. I'm out of pringles..."
 ```
 
 ### How about some lists?
