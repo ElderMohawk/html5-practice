@@ -19,4 +19,13 @@ This line just has a carriage return at the end
 so even though it's a separate line, it just gets shoved on the end of the last line.
 
 **Let's do some BOLD**  
-*And some italics*
+*And some italics*  
+
+This is fun. Here's a command in-line using backticks: `df -h`
+
+And here we have a block of code using three backticks:
+```
+for i in {1..10}; do
+  echo "I did stuff with your mom $i times last night"
+done
+```  
