@@ -14,20 +14,21 @@
 And Normal
 
 ### Paragraphs
-
 This line has two spaces at the end so that the next line will start a new paragraph.  
 Isn't that nice?
 
 This line just has a carriage return at the end
 so even though it's a separate line, it just gets shoved on the end of the last line.
 
-### Style
+However, if you don't want to do the weird two space thing,
 
+Github lets you just add a blank line....
+
+### Style
 **Let's do some BOLD**  
 *And some italics*  
 
 ### Code
-
 This is fun. Here's a command in-line using backticks: `df -h`
 
 And here we have a block of code using three backticks:
@@ -47,3 +48,6 @@ done
 2. Item two
 3. ???
 4. Profit
+
+### Dashes
+This guy---you know the idiot in the video---he fucks.
