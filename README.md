@@ -1,6 +1,7 @@
 # Markup Reference
 
 ### Headings
+Precede the line with up to 5 '#' symbols. More hashes means smaller heading.
 # Main Heading
 
 ## Sub-Heading
@@ -25,8 +26,9 @@ However, if you don't want to do the weird two space thing,
 Github lets you just add a blank line....
 
 ### Style
-**Let's do some BOLD**  
-*And some italics*  
+**Let's do some BOLD by using two asterisks to ecapsulate the text**
+
+*And some italics with a single asterisk before and after*  
 
 ### Code
 This is fun. Here's a command in-line using backticks: `df -h`
@@ -36,8 +38,10 @@ And here we have a block of code using three backticks:
 for i in {1..10}; do
   echo "I did stuff with your mom $i times last night"
 done
-```  
+```
+
 ### How about some lists?
+Start the line with asterisk and space for bullets. Number, period, then space for numbered lists.
 **Bullet point list:**
 * First Point
 * Second Point
@@ -50,6 +54,7 @@ done
 4. Profit
 
 ### Blockquotes
+Start a line with the '>' symbol to make a block quote.
 > If you've got a lot to say but you didn't say it, put it in a blockquote.  
 >   -Mark Twain
 
