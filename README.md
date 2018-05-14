@@ -17,3 +17,6 @@ Isn't that nice?
 
 This line just has a carriage return at the end
 so even though it's a separate line, it just gets shoved on the end of the last line.
+
+**Let's do some BOLD**  
+*And some italics*
