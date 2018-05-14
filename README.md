@@ -73,7 +73,7 @@ If you want the link to just show the address itself, use these guys: '<' and '>
 
 ### Images
 Same syntax as links but with an exclamation point **preceding** it.  
-!(https://www.github.com/unicorn.png)
+![](https://www.github.com/unicorn.png)
 
 ### Quick notes
 Backslash escape as is the standard.
