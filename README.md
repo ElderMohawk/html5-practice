@@ -68,11 +68,11 @@ Three underscores
 Or even three asterisks
 
 ### Links
-[Put brackets around the text you want to display, followed by the link in parentheses](github.com/jeremiahharmon/html5-practice)
+[Put brackets around the text you want to display, followed by the link in parentheses](github.com/jeremiahharmon/html5-practice)  
 If you want the link to just show the address itself, use these guys: '<' and '>'. That way you can avoid all the syntax.
 
 ### Images
-Same syntax as links but with an exclamation point **preceding** it.
+Same syntax as links but with an exclamation point **preceding** it.  
 ![Here's a Unicorn that GitHub provides](https://www.github.com/unicorn.png)
 
 ### Quick notes
