@@ -26,7 +26,7 @@ However, if you don't want to do the weird two space thing,
 Github lets you just add a blank line....
 
 ### Style
-**Let's do some BOLD by using two asterisks to ecapsulate the text**
+**Let's do some BOLD by using two asterisks to encapsulate the text**
 
 *And some italics with a single asterisk before and after*  
 
