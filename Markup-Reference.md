@@ -65,15 +65,14 @@ done
 
 echo "Oops. I'm out of pringles..."
 ```
-```
-\`\`\`
-for i in {1..10}; do
-  echo "I'm only going to eat $i pringles"
-done
 
-echo "Oops. I'm out of pringles..."
+\`\`\`  
+for i in {1..10}; do  
+  echo "I'm only going to eat $i pringles"  
+done  
+
+echo "Oops. I'm out of pringles..."  
 \`\`\`
-```
 
 ### How about some lists?
 Start the line with asterisk and space for bullets. Number, period, then space for numbered lists.
